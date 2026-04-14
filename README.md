@@ -38,7 +38,7 @@ _Power BI: Dashboard creation & Visualization_
 
 **Key Insights**
 
-_1. Total Sales amounts to Rs 1.20 Mio._
+_1. Total Sales for the period 2011-2022 amounts to Rs 1.20 Mio._
 
 _2. Average revenue per sales is Rs 141 approx._
 
