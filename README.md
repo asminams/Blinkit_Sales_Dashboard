@@ -73,3 +73,7 @@ _* Marketing strategies in Tier 1 and Tier 2 cities to be enhanced._
 _* Association with all outlet types in Tier 1 and Tier 2 cities have to be increased._
 
 _* Customer satisfaction measures such as fast & reliable service, quality, customer support etc. to continue with feedback guidelines._
+
+**Screenshot**
+
+_Dash Board Preview:_ https://github.com/asminams/Blinkit_Sales_Dashboard/blob/main/Blinkit_Screenshot.png
